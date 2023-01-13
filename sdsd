@@ -1,0 +1,23 @@
+[33mcommit 58383e90c0425a26eeaa185aab3a0e9fd1c2a583[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: mcahneriii <103295673+mcahneriii@users.noreply.github.com>
+Date:   Thu Jan 12 19:58:50 2023 -0800
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 2b4a8acef49a2fe08fcfcc99455c1950979b2222[m
+Author: mcahneriii <103295673+mcahneriii@users.noreply.github.com>
+Date:   Thu Jan 12 19:53:50 2023 -0800
+
+    add hello_world.txt
+
+[33mcommit f16c7b821190dd97bcf02ada42db8fea7954a435[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: mcahneriii <103295673+mcahneriii@users.noreply.github.com>
+Date:   Thu Jan 12 19:49:42 2023 -0800
+
+    Update README.md
+
+[33mcommit d89840251245ec3ed99b6b46fb8fcd02543a030d[m
+Author: mcahneriii <103295673+mcahneriii@users.noreply.github.com>
+Date:   Thu Jan 12 19:49:30 2023 -0800
+
+    Initial commit
